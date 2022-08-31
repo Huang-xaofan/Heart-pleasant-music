@@ -3,3 +3,6 @@
 cmd 进入 网易云音乐本地接口 文件 输入  node app.js
  
 
+第二步:
+运行 music-demo 
+npm run serve
