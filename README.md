@@ -1,3 +1,5 @@
 第一步：
 需要开启本地服务器
-node app.js
+cmd 进入 网易云音乐本地接口 文件 输入  node app.js
+ 
+
